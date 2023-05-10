@@ -1,0 +1,161 @@
+
+.main {
+    width: 70%; float: left;
+    
+  
+
+}
+
+.pomo {
+    width: 80%;
+    margin: 5vw 0 0 20vw;
+    background-color: rgb(236, 97, 120);
+    height: 35vw;
+}
+
+.pomo h1 {
+    margin: -30px 0 0 4vw;
+    font-family: Candara;
+    color: beige;
+}
+
+.right {
+
+    margin: 18px 0 0 33px;
+    font-size: 18px;
+    color: beige;
+}
+
+.gear {
+    margin: 0 0 40px 48vw;
+    
+    color: beige;
+}
+
+.setting {
+    width: 98%; float: left;
+    margin: 0 10px 0 0;
+}
+
+.setting h3 {
+    border: 1px solid beige;
+    border-radius: 5px;
+    padding: 3px 5px;
+    background-color: rgb(245, 154, 168);
+    margin: -30px 0 0 49vw;
+    font-family: Candara;
+    color: beige;
+}
+
+.hrline {
+    margin: 10px 0 0 0;
+}
+
+
+.down {
+    width: 70%;
+    background-color: rgb(245, 154, 168);
+    margin: 2vw 0 0 8vw;
+    height: 25vw;
+    border-radius: 5px;
+}
+.panel {
+    width: 100%; float: left;
+}
+
+.panel p {
+    opacity: .8;
+    transition: 1s ease-in;
+
+}
+
+.panel p.active {
+    opacity: 1;
+    color: var(--color-secondary);
+
+}
+
+#work {
+    color: beige;
+    margin: 1vw 0 0 10vw;
+    font-size: 20px;
+    font-family: Candara;
+}
+#break {
+    color: beige;
+    margin: -24px 0 0 22vw;
+    font-size: 20px;
+    font-family: Candara;
+}
+
+
+
+.timer {
+    width: 100%;
+    float: left;
+}
+
+
+#minutes {
+    margin: 5vw 0 0 9vw;
+    color: beige;
+    font-size: 8vw;
+    font-family: Ariel;
+}
+
+.middle {
+    color: beige;
+    font-size: 8vw;
+    margin: -10vw 0 0 18vw;
+}
+
+#seconds {
+    color: beige;
+    margin: -8.5vw 0 0 22vw;
+    font-size: 8vw;
+    font-family: Ariel;
+}
+
+.controls {
+    width: 100%;
+    float: left;
+}
+
+#start {
+    margin: 3vw 0 0 12vw;
+    font-size: 18px;
+    border-radius: 8px;
+    border: 1px solid beige;
+    padding: 2px 20px;
+    color: beige;
+    cursor: pointer;
+    background-color: rgb(247, 185, 194);
+    font-family: Candara;
+
+}
+
+
+#reset {
+    margin: 3vw 0 0 3vw;
+    color: beige;
+    border: 1px solid beige;
+    font-size: 18px;
+    border-radius: 8px;
+    padding: 2px 20px;
+    font-family: Candara;
+    cursor: pointer;
+    background-color: rgb(247, 185, 194);
+}
+
+.hrline2 {
+    width: 100%;
+    float: left;
+}
+
+.reserver p {
+    text-align: center;
+    margin-top: 1.5vw;
+    color: beige;
+    font-family: Candara;
+
+}
